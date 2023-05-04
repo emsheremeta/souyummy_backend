@@ -1,8 +1,31 @@
 ## BACKEND - So Yummy
 
-### Команди:
+## Links to:
 
-- `npm start` &mdash; старт сервера в режимі production
-- `npm run start:dev` &mdash; старт сервера в режимі розробки (development)
-- `npm run lint` &mdash; запустити виконання перевірки коду з eslint, необхідно виконувати перед кожним PR та виправляти всі помилки лінтера
-- `npm lint:fix` &mdash; та ж перевірка лінтера, але з автоматичними виправленнями простих помилок
+[SWAGGER](https://determined-ruby-nematode.cyclic.app/api-docs/)
+
+[BACKEND](https://github.com/Eddy-hub19/souyummy_backend)
+
+## About this project
+
+SoYummy - this is web application which you can use for searching dishes and adding your own recipes.
+Here you can find different categories such as: breakfast, beef, chicken, desserts, salates etc.
+You can create your own recipe, add ingredients, description and instruction how to prepare the dish.
+
+## Why SoYummy
+
+- Light/Dark theme
+- Ability to add your own recipe
+- Cross-platform software
+- Subscribe/Unsubscribe
+
+### Commands:
+
+- `npm start` &mdash; production mode
+- `npm run start:dev` &mdash; development mode
+- `npm run lint` &mdash; checking with eslint
+- `npm lint:fix` &mdash; checking with eslint+ fixing small bug
+
+## Technologies:
+
+- BACKEND: Node.js, express, mongoose
