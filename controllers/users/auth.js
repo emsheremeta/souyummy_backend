@@ -76,7 +76,7 @@ const register = async (rec, res) => {
 
 </html>`,
   };
-  await sendEmail(verifyEmail);
+  // await sendEmail(verifyEmail);
 
   // const payload = {
   //   id: newUser._id,
